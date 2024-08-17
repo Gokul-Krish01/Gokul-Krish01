@@ -12,7 +12,7 @@ I'm an enthusiastic AI student currently in my 3rd year of B.Tech in AI & Data S
   - Proficient in solving programming errors and debugging
   - Basic web development
   - UI/UX design (beginner level)
-  - Photoshop
+  - Photoshop , Canva
 - 🌟 Soft Skills:
   - Strong leadership skills
   - Excellent team player
