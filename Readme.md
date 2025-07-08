@@ -3,8 +3,10 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-
-I'm an enthusiastic AI student currently in my 3rd year of B.Tech in AI & Data Science. I have a passion for coding, problem-solving, and continuous learning. Here are some highlights about me:
+Passionated AI student with a strong interest in machine learning, web development, and
+IoT. Eager to contribute to real-world projects while growing through hands-on challenges and
+professional growth in cutting-edge technologies.
+Here are some highlights about me:
 
 - 📚 Education: B.Tech in Artificial Intelligence & Data Science
 - 🖥️ Programming Languages: Python, Java
@@ -33,7 +35,7 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 
 - 📧 Email: gokulnagarajan101@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/gokul-krishnan-347398276/
-- 🌐 Portfolio:https://zelkrish.neocities.org/portfolio/templates/
+- 🌐 Portfolio:https://gokulkrish.netlify.app/
 
 ## Let's Connect!
 
