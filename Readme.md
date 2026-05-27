@@ -3,26 +3,24 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Passionated AI student with a strong interest in machine learning, web development, and
-IoT. Eager to contribute to real-world projects while growing through hands-on challenges and
-professional growth in cutting-edge technologies.
+Passionated AI Developer in machine learning, web development, and IoT. I have mentored across 3000+ students among various states. Eager to contribute to real-world projects while growing through hands-on challenges and professional growth in cutting-edge technologies.
+
 Here are some highlights about me:
 
 - 📚 Education: B.Tech in Artificial Intelligence & Data Science
-- 🖥️ Programming Languages: Python, Java
+- 🖥️ Programming Languages: Python, Java , C
 - 🛠️ Skills: 
   - Proficient in solving programming errors and debugging
-  - Basic web development
-  - UI/UX design (beginner level)
+  - AI development
+  - UI/UX design (Intermediate level)
   - Photoshop , Canva
 - 🌟 Soft Skills:
   - Strong leadership skills
   - Excellent team player
   - Ability to work collaboratively and communicate effectively
-- 🥊 Physical Health: I take care of my physical health by practicing boxing.
 - 🎥 Interests:
   - Watching animated series and tech, sci-fi anime movies
-  - Playing desktop games.
+  - Playing desktop games and practicing Boxing
 
 ## I'm Good in ;
 1. *AI and Data Science Projects:* Various projects showcasing my skills in machine learning, data analysis, and AI algorithms.
