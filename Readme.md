@@ -1,6 +1,6 @@
 ![Screenshot 2024-07-19 012742](https://github.com/user-attachments/assets/eef2f933-7754-4034-931e-6876b16589ac)
 
-# Welcome to My GitHub Profile! 👋
+# hello world! 👋
 
 ## About Me
 Passionated AI Developer in machine learning, web development, and IoT. I have mentored across 3000+ students among various states. Eager to contribute to real-world projects while growing through hands-on challenges and professional growth in cutting-edge technologies.
